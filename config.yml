@@ -3,7 +3,7 @@
 namespaces:
 - o
 - en
-- .us
+- .de
 - github: .
   name: my
 defaultKeyword: g 
