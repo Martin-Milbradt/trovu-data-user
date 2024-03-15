@@ -4,6 +4,7 @@ namespaces:
 - o
 - en
 - .de
+- my
 - github: .
   name: my
 defaultKeyword: g 
