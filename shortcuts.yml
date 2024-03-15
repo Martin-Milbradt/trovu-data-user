@@ -10,7 +10,7 @@ examplekeyword 2:
   tags:
   - example
 a 1:
-  url: https://www.amazon.de/gp/search?ie=UTF8&tag=phenx-21&keywords=%s
+  url: https://www.amazon.de/s?k=<query>&tag=phenx-21
   title: Amazon.de
   tags:
   - amazon
