@@ -9,3 +9,15 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
+a 1:
+  url: https://www.amazon.de/gp/search?ie=UTF8&tag=phenx-21&keywords=%s
+  title: Amazon.de
+  tags:
+  - amazon
+  - books
+  - is-affiliate
+  - shopping
+  examples:
+  - arguments: shakespeare
+    description: Search for "shakespeare"
+  showOnHome: 1000
